@@ -1,0 +1,12 @@
+* {
+	font-family: sans-serif;
+}
+
+h2 {
+	text-align: center;
+}
+
+.darkMode {
+	background: #222222;
+	color: #ffffff;
+}
