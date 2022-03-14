@@ -6,7 +6,7 @@ and loops, and finally using control flow makes our projects more powerful, more
 
 // Conditional Statements
 /*  Conditional Statements are basically checks to
-see if a certain condition is either true or flase.
+see if a certain condition is either true or false.
 If the condition is true then run code A, if it's false then run B
 1. if statements
 2. switch
