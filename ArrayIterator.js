@@ -151,3 +151,8 @@ console.log(fruitsUpper);
 
 let containMoreThanThree = fruits.every((fruit) => fruit.length > 3);
 console.log(containMoreThanThree);
+
+let numbers = [3, 5, 4, 7, 7, 3, 6, 7, 9];
+
+let oddNumbers = numbers.filter((n) => n % 2 === 0);
+console.log(oddNumbers);
